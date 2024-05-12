@@ -32,32 +32,27 @@ body{
 }
 
 .button1{
-    margin: 0 150;
-    padding: 0;
+    margin: 0 100;
 }
 
 .button2{
-    margin: 0 20;
-    padding: 0;
+    margin: 0 100;
 }
 
 .button3{
     margin: 0 100;
-    padding: 0;
 }
 
 .button4{
-    margin: -60;
-    padding: 0;
+    margin: 0 100;
 }
 
 .button5{
-    margin: 0 95;
-    padding: 0;
+    margin: 0 100;
 }
 
 .syoukai{
-    padding: 100 0;
+    padding: 0 100;
 }
 
 .footer{
