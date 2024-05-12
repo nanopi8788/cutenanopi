@@ -56,6 +56,10 @@ body{
     padding: 0;
 }
 
+.syoukai{
+    padding: 100 0;
+}
+
 .footer{
     background-color:  #ccc1ff;
     height: 250px;
