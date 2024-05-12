@@ -14,6 +14,11 @@ body{
     width: 1920px;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .main{
     background-color:  #ffdbfa;
     height: 250px;
@@ -22,34 +27,34 @@ body{
 
 .main2{
     background-color:  #ffdbfa;
-    height: 4000px;
+    height: 4500px;
     width: 1920px;
 }
 
 .button1{
     margin: 0 150;
-    padding: 0;
 }
 
 .button2{
     margin: 0 20;
-    padding: 0;
 }
 
 .button3{
     margin: 0 100;
-    padding: 0;
 }
 
 .button4{
     margin: -60;
-    padding: 0;
 }
 
 .button5{
     margin: 0 95;
-    padding: 0;
 }
+
+.syoukai{
+    margin: 100 0;
+}
+
 
 .footer{
     background-color:  #ccc1ff;
