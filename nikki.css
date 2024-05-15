@@ -13,13 +13,13 @@ body{
     padding: 0;
 }
 
-main{
+.main{
     background-color: #ffdbfa;
     height: 1000px;
     width: 1920px;
 }
 
-footer{
+.footer{
     background-color:#ccclff;
     height: 150px;
     width: 1920px;
