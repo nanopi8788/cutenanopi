@@ -2,14 +2,25 @@ body{
     font-family: "CapieN Medium";
 }
 
-.heaber{
-    background-color: #caf0ff;
+.header{
+    background-color: #cafoff;
+    height: 150px;
+    width: 1920px;
 }
 
-.main{
-    background-color: #caf0ff;
+*{
+    margin: 0;
+    padding: 0;
 }
 
-.fooder{
-    background-color: #caf0ff;
+main{
+    background-color: #ffdbfa;
+    height: 1000px;
+    width: 1920px;
+}
+
+footer{
+    background-color:#ccclff;
+    height: 150px;
+    width: 1920px;
 }
