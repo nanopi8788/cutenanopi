@@ -5,13 +5,13 @@ body{
 .header{
     background-color: #caf0ff;
     height: 167px;
-    width: 1170px;
+    width: 1920px;
 }
 
 .header2{
     background-color: #caf0ff;
     height: 1260px;
-    width: 1170px;
+    width: 1920px;
 }
 
 *{
@@ -22,13 +22,13 @@ body{
 .main{
     background-color:  #ffdbfa;
     height: 250px;
-    width: 1170px;
+    width: 1920px;
 }
 
 .main2{
     background-color:  #ffdbfa;
     height: 4500px;
-    width: 1170px;
+    width: 1920px;
 }
 
 .button1{
@@ -99,5 +99,5 @@ body{
 .footer{
     background-color:  #ccc1ff;
     height: 250px;
-    width: 1170px;
+    width: 1920px;
 }
