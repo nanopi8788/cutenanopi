@@ -34,7 +34,7 @@ body{
 .button1{
     margin: 0 150;
     border: 0;
-    border-bottom: solid 4px #627295;
+    border-bottom: solid 4px #f994bb;
 }
 
 .button1:active{
@@ -46,7 +46,7 @@ body{
 .button2{
     margin: 0 20;
     border: 0;
-    border-bottom: solid 4px #627295;
+    border-bottom: solid 4px #94f9f6;
 }
 
 .button2:active{
@@ -58,7 +58,7 @@ body{
 .button3{
     margin: 0 100;
     border: 0;
-    border-bottom: solid 4px #627295;
+    border-bottom: solid 4px #94f9a4;
 }
 
 .button3:active{
@@ -70,7 +70,7 @@ body{
 .button4{
     margin: -60;
     border: 0;
-    border-bottom: solid 4px #627295;
+    border-bottom: solid 4px #eaf088;
 }
 
 .button4:active{
@@ -82,7 +82,7 @@ body{
 .button5{
     margin: 0 95;
     border: 0;
-    border-bottom: solid 4px #627295;
+    border-bottom: solid 4px #ac91f8;
 }
 
 .button5:active{
@@ -101,4 +101,3 @@ body{
     height: 250px;
     width: 1920px;
 }
-
